@@ -7,14 +7,13 @@ Please click on http://www.othelloonline.org/ to learn about the rules of the ga
 The program assumes the user to be Black and the agent to be White. So the user will start the first mover followed by the agent. Keep all the source files in same path.
 
 To Run the Othello game,
-	javac Othello.java
 	
+	javac Othello.java
 	java Othello
 
 The program prints Input the coordinates to move to
 	
 	-> Input x coordinate
-	
 	-> Input y coordinate
 
 Waits for the agent's move	
@@ -24,6 +23,5 @@ if the game is not over,
 The program prints Input the coordinates to move to
 	
 	-> Input x coordinate
-	
 	-> Input y coordinate
 
