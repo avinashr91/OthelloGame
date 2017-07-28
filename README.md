@@ -11,7 +11,7 @@ To Run the Othello game,
 	javac Othello.java
 	java Othello
 
-The program prints Input the coordinates to move to
+The program prints "Input the coordinates to move to"
 	
 	-> Input x coordinate
 	-> Input y coordinate
@@ -20,7 +20,7 @@ Waits for the agent's move
 	
 if the game is not over,
 
-The program prints Input the coordinates to move to
+The program prints "Input the coordinates to move to"
 	
 	-> Input x coordinate
 	-> Input y coordinate
